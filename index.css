@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    font-family: '60s Scoreboard', sans-serif;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h3, h1 {
+   text-align: center;
+   color: #F94F6D;              
+   font-size: 35px                                             
+ 
+}
+
+button{
+    background: #1B244A; 
+    border : 1px solid #9AABD8; 
+    border-radius : 5px; 
+    width: 32px;
+    height: 35px;
+    color : #F94F6D;    
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    font-family: '60s Scoreboard', sans-serif;
+
+}
+
+.score{
+    background: black;
+    height: 75px;
+    width: 125px;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    font-size : 50px                                            
+
+} 
